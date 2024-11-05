@@ -13,7 +13,7 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "https://<your-username>.github.io/<marvel>",
+  "homepage": "https://2vasy.github.io/marvel",
 
   "scripts": {
     "start": "react-scripts start",
