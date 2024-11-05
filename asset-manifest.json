@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/marvel/static/css/main.33a40c99.css",
+    "main.js": "/marvel/static/js/main.5c767f6d.js",
+    "static/js/825.27ab9393.chunk.js": "/marvel/static/js/825.27ab9393.chunk.js",
+    "static/css/51.1b3f0e6c.chunk.css": "/marvel/static/css/51.1b3f0e6c.chunk.css",
+    "static/js/51.396c83f0.chunk.js": "/marvel/static/js/51.396c83f0.chunk.js",
+    "static/css/349.e00ac72f.chunk.css": "/marvel/static/css/349.e00ac72f.chunk.css",
+    "static/js/349.2d57ff10.chunk.js": "/marvel/static/js/349.2d57ff10.chunk.js",
+    "static/css/529.724f6d17.chunk.css": "/marvel/static/css/529.724f6d17.chunk.css",
+    "static/js/529.7a4c0630.chunk.js": "/marvel/static/js/529.7a4c0630.chunk.js",
+    "static/media/vision.png": "/marvel/static/media/vision.067d4ae1936d64a577ce.png",
+    "static/media/mjolnir.png": "/marvel/static/media/mjolnir.61f31e1809f12183a524.png",
+    "static/media/Avengers.png": "/marvel/static/media/Avengers.4065c8f9c94e3d8b039a.png",
+    "static/media/error.gif": "/marvel/static/media/error.42292aa12b6bc303ce99.gif",
+    "static/media/Avengers_logo.png": "/marvel/static/media/Avengers_logo.9eaf219344d83362e830.png",
+    "index.html": "/marvel/index.html",
+    "main.33a40c99.css.map": "/marvel/static/css/main.33a40c99.css.map",
+    "main.5c767f6d.js.map": "/marvel/static/js/main.5c767f6d.js.map",
+    "825.27ab9393.chunk.js.map": "/marvel/static/js/825.27ab9393.chunk.js.map",
+    "51.1b3f0e6c.chunk.css.map": "/marvel/static/css/51.1b3f0e6c.chunk.css.map",
+    "51.396c83f0.chunk.js.map": "/marvel/static/js/51.396c83f0.chunk.js.map",
+    "349.e00ac72f.chunk.css.map": "/marvel/static/css/349.e00ac72f.chunk.css.map",
+    "349.2d57ff10.chunk.js.map": "/marvel/static/js/349.2d57ff10.chunk.js.map",
+    "529.724f6d17.chunk.css.map": "/marvel/static/css/529.724f6d17.chunk.css.map",
+    "529.7a4c0630.chunk.js.map": "/marvel/static/js/529.7a4c0630.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33a40c99.css",
+    "static/js/main.5c767f6d.js"
+  ]
+}
